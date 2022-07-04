@@ -12,11 +12,11 @@ Ed-X Harvard CS50 projects
     -   [x] Mario (More)
     -   [x] Cash
     -   [x] Credit
--   [ ] Week 2
+-   [x] Week 2
     -   [x] Lab 2: Scrabble
-    -   [ ] Readability
-    -   [ ] Ceasar
-    -   [ ] Substitution
+    -   [x] Readability
+    -   [x] Ceasar
+    -   [x] Substitution
 -   [ ] Week 3
     -   [ ] Lab 3: Sort
     -   [ ] Plurality
