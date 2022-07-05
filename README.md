@@ -17,10 +17,10 @@ Ed-X Harvard CS50 projects
     -   [x] Readability
     -   [x] Ceasar
     -   [x] Substitution
--   [ ] Week 3
-    -   [ ] Lab 3: Sort
-    -   [ ] Plurality
-    -   [ ] Runoff
+-   [x] Week 3
+    -   [x] Lab 3: Sort
+    -   [x] Plurality
+    -   [x] Runoff
     -   [ ] Tideman
 -   [ ] Week 4
     -   [ ] Lab 4: Volume
