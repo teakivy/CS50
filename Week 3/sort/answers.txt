@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Best case scenario is Ω(n), worse case is much larger
+
+sort2 uses: Merge Sort
+
+How do you know?: Best, average, and worse cases are near equal
+
+sort3 uses: Selection Sort
+
+How do you know?: Time complexity increases exponentiallyBest, average, and worse cases are near equal
